@@ -52,3 +52,8 @@ body {
 .bottom {
     transform: rotateY(180deg);
 }
+
+#nameofthegame {
+    font-family: 'Mortal Kombat 1', sans-serif;
+    text-align: center;
+}
